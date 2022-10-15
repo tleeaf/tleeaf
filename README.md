@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tleeaf aka Tom Lee
-- 👀 I’m interested in creating imaginative, unique, empowering and inspiring interactive experiences. 
+- 👀 I’m interested in creating imaginative, unique, empowering and inspiring interactive experiences.
+- 🎨 I like playing around with generative art every now and then.
 - 📫 ig: @teeleeaf
 
 <!---
